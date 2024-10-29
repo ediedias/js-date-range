@@ -1,6 +1,6 @@
 # Date Range Picker
 
-A simple, interactive date range picker built with vanilla JavaScript and CSS, similar to the ones used on travel websites. Users can select a start and end date, navigate through months, and close the calendar with clicks outside the picker or by pressing the `Escape` key.
+Interactive date range picker built with vanilla JavaScript and CSS, similar to the ones used on travel websites. Users can select a start and end date, navigate through months, and close the calendar with clicks outside the picker or by pressing the `Esc` key.
 
 ## Features
 
