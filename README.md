@@ -21,3 +21,7 @@ A simple, interactive date range picker built with vanilla JavaScript and CSS, s
 - **Select Date Range**: Users click on dates to set a start and end date, with selection visible on the calendar.
 - **Clear Selection**: Selecting a new date resets any previous range.
 - **Close Mechanisms**: The calendar hides when clicking outside or pressing `Escape`.
+
+![Screenshot_16](https://github.com/user-attachments/assets/b7218629-a1f7-4269-b6c0-681d4143234a)
+![Screenshot_17](https://github.com/user-attachments/assets/15b659c9-e979-462a-815f-ddf8bdf1913b)
+
